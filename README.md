@@ -16,7 +16,7 @@ A calculadora suporta as quatro operações matemáticas básicas:
 * **Multiplicação** (`*`)
 * **Divisão** (`/`) — inclui validação para evitar a divisão por zero.
 
-### 2. Script de Automação (`automatizar.sh`)
+### 2. Script de Automação (`calculadora.sh`)
 O script Shell automatiza as seguintes etapas:
 * Verifica se o Python 3 está instalado no sistema.
 * Define as permissões corretas de execução.
